@@ -1,5 +1,8 @@
-# download e installazione dipendenze pacchetto "assertive"
+### TheShinISS Quality Checks ###
+
+# Download e installazione dipendenze pacchetto "assertive"
 # NB: l'ordine deve essere quello qui sotto, per ultima la libreria assertive ... le precedenti sono le sue dipendenze
+
 library(here)
 library(devtools)
 
